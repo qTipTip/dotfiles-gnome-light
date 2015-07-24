@@ -88,3 +88,5 @@ BASE16_SHELL="$HOME/.config/base16-shell/base16-ocean.light.sh"
 [[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
 
 export PATH="$PATH:/usr/local/fun"
+# added by Anaconda 2.3.0 installer
+export PATH="/home/ivar/anaconda/bin:$PATH"
